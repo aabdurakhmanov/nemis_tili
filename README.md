@@ -45,8 +45,10 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 4. https://t.me/+IkWb_teXk5E0Zjli
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge)](https://github.com/aabdurakhmanov)
+[![aabdurakhmanov](https://img.shields.io/badge/GitHub-Follow-blue?logo=github&style=for-the-badge)](https://github.com/aabdurakhmanov)
 
 [![Follow on GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/aabdurakhmanov)
 
-> Ushbu repozitoriy o‘quvchilar uchun ochiq va bepul foydalanish uchun mo‘ljallangan.
+> Ushbu nemis-tili v1.0.0 repozitoriyasi o‘quvchilar uchun ochiq va bepul foydalanish uchun mo‘ljallangan.
+> Tez orada bu repozitoiyaining takomillashgan versiyasi yolga qoyiladi va to'liq avtomatlashtiriladi.
+#nemistili #german #deutsch #v1.0.0
