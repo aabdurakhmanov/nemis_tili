@@ -54,4 +54,4 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 
 
 ---
-[![aabdurakhmanov](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aabdurakhmanov)
+[![aabdurakhmanov](https://img.shields.io/badge/GitHub-aabdurakhmanov-blue?style=for-the-badge&logo=github)](https://github.com/aabdurakhmanov)
