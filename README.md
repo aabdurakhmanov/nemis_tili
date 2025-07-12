@@ -25,16 +25,20 @@ So‘z boyligini oshirish uchun mavzuga oid so‘zlar:
 
 ---
 
-### 📁 [Hikoyalar]
+### 📁 Hikoyalar
 O‘qish uchun oddiy va tushunarli qisqa hikoyalar:
 - `Harry Potter barcha qismlari.pdf`
 
 ---
 
-### 📁 [Imtihon]
+### 📁 Imtihon
 Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
-- `goethe_b1_namuna.pdf` – haqiqiy testlarga o‘xshash mashqlar.
-
+- `Fit fürs Goethe Zertifikat A1.pdf`
+- `Mit Erfolg zum Goethe-Zertifikat A2.pdf`
+- `Mit Erfolg zum Goethe-Zertifikat B1.pdf`
+- `Mit Erfolg zum Goethe-Zertifikat B2.pdf`
+- `Goethe Zertifikat C1.pdf`
+  
 ---
 
 ## 💡 Foydalanish
@@ -50,7 +54,4 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 
 
 ---
-
-[![github](https://img.shields.io/badge/GitHub-Follow-blue?logo=github&style=for-the-badge)](https://github.com/aabdurakhmanov)
-
-[![Follow on GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/aabdurakhmanov)
+[![aabdurakhmanov](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/aabdurakhmanov)
