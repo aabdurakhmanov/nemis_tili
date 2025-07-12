@@ -15,13 +15,19 @@ Nemis tili grammatikasi:
 
 ### 📁 [So'z](./So'z)
 So‘z boyligini oshirish uchun mavzuga oid so‘zlar:
-- `so‘zlar_ro‘yxati.md` – eng muhim 1000 ta so‘z.
+- `Wortschatz Intensivtrainer A1.pdf`.
+- `Wortschatz Intensivtrainer A2.pdf`.
+- `Wortschatz A1.pdf`.
+- `Wortschatz A2.pdf`.
+- `Wortschatz Intensivtrainer B2.pdf`.
+- `Goethe Zertifikat A2.pdf`.
+- `Goethe Zertifikat_B1.pdf`.
 
 ---
 
 ### 📁 [Hikoyalar](./Hikoyalar)
 O‘qish uchun oddiy va tushunarli qisqa hikoyalar:
-- `qisqa_hikoyalar.pdf` – boshlang‘ich darajadagi matnlar.
+- `.pdf` – boshlang‘ich darajadagi matnlar.
 
 ---
 
@@ -38,9 +44,8 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 3. Ularni ko‘rib chiqish yoki yuklab olish mumkin.
 4. https://t.me/+IkWb_teXk5E0Zjli
 ---
-📘 GitHub: [aabdurakhmanov](https://github.com/aabdurakhmanov)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-181717?logo=github&style=for-the-badge)](https://github.com/aabdurakhmanov)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge)](https://github.com/aabdurakhmanov)
 
 [![Follow on GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/aabdurakhmanov)
 
