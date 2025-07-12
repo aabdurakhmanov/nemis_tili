@@ -55,3 +55,44 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 
 ---
 [![aabdurakhmanov](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/aabdurakhmanov)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sening-username)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/sening_username)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sening_username)
+
+<a href="https://github.com/sening_username" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=social" alt="GitHub">
+</a>
+<a href="https://t.me/sening_username" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=social" alt="Telegram">
+</a>
+<a href="https://linkedin.com/in/sening-username" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social" alt="LinkedIn">
+</a>
+
+<img src="https://avatars.githubusercontent.com/u/YOUR-ID?v=4" width="50" alt="Profil rasmi" />  
+**Assalomu alaykum, men [Abdumannon](https://github.com/aabdurakhmanov)man** 👋  
+Men GitHub'da o'qituvchi, dasturchi va nemis tilini o‘rganuvchiman. 👨‍💻
+
+
+<p align="center">
+  <a href="https://github.com/aabdurakhmanov">
+    <img src="https://avatars.githubusercontent.com/u/YOUR-ID?v=4" width="100" alt="profile" />
+  </a>
+</p>
+
+<h3 align="center">Assalomu alaykum 👋 Men Abdumannon!</h3>
+
+<p align="center">
+  <a href="https://t.me/sening_username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://linkedin.com/in/sening-username">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/aabdurakhmanov">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
