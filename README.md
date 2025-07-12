@@ -43,8 +43,7 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 
 ## 💡 Foydalanish
 
-1. Ushbu havola orqali https://t.me/+IkWb_teXk5E0Zjli [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/+IkWb_teXk5E0Zjli)
- telegram kanalga kiring.
+1. Ushbu havola orqali https://t.me/+IkWb_teXk5E0Zjli telegram kanalga kiring.
 2. Telegram kanalda kitoblar, audio fayllari va ko'plab o'quv materiallari joylashtirilgan.
 3. Ushbu o'quv qo'llanmalaridan o'zingizga mosini tanlab o'qishingiz, foydalanishingiz, yuklab olishingiz mumkun.
 
@@ -55,4 +54,4 @@ Goethe B1 imtihoniga tayyorlanish uchun namuna testlar:
 
 
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aabdurakhmanov)
+[![aabdurakhmanov](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aabdurakhmanov)
