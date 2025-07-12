@@ -6,14 +6,14 @@ Bu repozitoriyada nemis tilini o'rganish uchun kerakli **kitoblar**, **fayllar**
 
 ## 📚 Fayllar
 
-### 📁 [Grammatika]
+### 📁 Grammatika
 Nemis tili grammatikasi:
 - `Grammatik aktiv A1-B1.pdf` – asosiy grammatik qoida.
 - `Grammatik aktiv B2-C1.pdf` – asosiy grammatik qoida.
 
 ---
 
-### 📁 [So'z]
+### 📁 So'z
 So‘z boyligini oshirish uchun mavzuga oid so‘zlar:
 - `Wortschatz Intensivtrainer A1.pdf`.
 - `Wortschatz Intensivtrainer A2.pdf`.
